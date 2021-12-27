@@ -6,5 +6,6 @@ The code includes:
 4) Spot decoding in embryonic tissue (no single cell)
 5) Layer specific quantification
 6) Region specific quantification
+7) Clustering algorithm by spatial distribution
 
 All the code is written in Matlab.
