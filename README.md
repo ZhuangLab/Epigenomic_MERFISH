@@ -7,5 +7,6 @@ The code includes:
 5) Layer specific quantification
 6) Region specific quantification
 7) Clustering algorithm by spatial distribution
+8) Generate tissue mosaic for all decoded spots in embryonic tissues
 
 All the code is written in Matlab.
