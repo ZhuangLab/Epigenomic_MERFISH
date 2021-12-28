@@ -1,5 +1,5 @@
 # Code
-The code includes:
+The codes include:
 1) Probe design for all the libraries
 2) Barcode assignment for all the libraries
 3) Spot decoding in individual single cell
@@ -7,6 +7,6 @@ The code includes:
 5) Layer specific quantification
 6) Region specific quantification
 7) Clustering algorithm by spatial distribution
-8) Generate tissue mosaic for all decoded spots in embryonic tissues
+8) Tissue mosaic generation for all decoded spots in embryonic tissues
 
-All the code is written in Matlab.
+All the codes are written in Matlab.
