@@ -1,4 +1,4 @@
-# Code
+# The Code for Epigenomic MERFISH
 The codes include:
 1) Probe design for all the libraries
 2) Barcode assignment for all the libraries
