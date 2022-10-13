@@ -10,5 +10,6 @@ The codes include:
 7) Clustering algorithm by spatial distribution
 8) Tissue mosaic generation for all decoded spots in embryonic tissues
 
-All the codes are written in Matlab(2021a). Some MATLAB functions used in the code are from https://github.com/ZhuangLab/MERFISH_analysis.
-Correspondence: Tian Lu(tianlu@g.harvard.edu) and Xiaowei Zhuang (zhuang@g.harvard.edu)
+All the codes are written in Matlab(2021a). 
+Some MATLAB functions used in the code are from https://github.com/ZhuangLab/MERFISH_analysis.
+Correspondence: Tian Lu (lutian125@gmail.com) and Xiaowei Zhuang (zhuang@g.harvard.edu)
