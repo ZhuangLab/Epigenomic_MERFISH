@@ -17,6 +17,6 @@ The codes include:
 
 All the codes are written in Matlab(2021a). 
 
-Some MATLAB functions used in the code are from https://github.com/ZhuangLab/MERFISH_analysis.
+Some MATLAB functions used in the code are from https://github.com/ZhuangLab/MERFISH_analysis and https://www.mathworks.com/matlabcentral/fileexchange.
 
 Correspondence: Tian Lu (lutian125@gmail.com) and Xiaowei Zhuang (zhuang@g.harvard.edu)
