@@ -1,4 +1,4 @@
-# Analysis code for Epigenomic MERFISH
+# Code for Epigenomic MERFISH
 This repository contains code for image and sequence analysis for epigenomic MERFISH (https://doi.org/10.1016/j.cell.2022.09.035).
 
 Please check github.com/ZhuangLab for the latest version of this code.
