@@ -8,7 +8,7 @@ The corresponding datasets could be found by DOI: https://doi.org/10.5281/zenodo
 The codes include:
 1) Barcode assignment for each loci 
 2) Probe design with barcode assigned
-3) Spot decoding in individual single cell
+3) Spot decoding in individual single cell with speckle quantification
 4) Spot decoding in embryonic tissue (no single cell)
 5) Layer specific quantification
 6) Region specific quantification
