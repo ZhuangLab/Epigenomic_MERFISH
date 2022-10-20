@@ -6,8 +6,8 @@ Please check github.com/ZhuangLab for the latest version of this code.
 The corresponding datasets could be found by DOI: https://doi.org/10.5281/zenodo.7075964
 
 The codes include:
-1) Probe design for all the libraries
-2) Barcode assignment for each loci for all the libraries
+1) Barcode assignment for each loci 
+2) Probe design with barcode assigned
 3) Spot decoding in individual single cell
 4) Spot decoding in embryonic tissue (no single cell)
 5) Layer specific quantification
