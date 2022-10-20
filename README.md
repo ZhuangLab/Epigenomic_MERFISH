@@ -14,6 +14,7 @@ The codes include:
 6) Region specific quantification
 7) Clustering algorithm by spatial distribution
 8) Tissue mosaic generation for all decoded spots in embryonic tissues
+9) Cortex RNA MERFISH quantification
 
 All the codes are written in Matlab(2021a). 
 
