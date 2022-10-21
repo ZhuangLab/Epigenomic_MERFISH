@@ -45,7 +45,7 @@ idx2=boolean(idx2);
 
 %% plot cells
 count=10;
-threshold=[0,0.1,0.5,0.6,1.1,1.7,2.8,4.5,7.3,11.8,19.1];
+threshold=[0,1,2,3,4];
  for i=1:length(ida)
     % plot all the cells
     figure;
