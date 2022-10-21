@@ -11,10 +11,9 @@ The codes include:
 3) Spot decoding in individual single cell with speckle quantification
 4) Spot decoding in embryonic tissue (no single cell)
 5) Layer specific quantification
-6) Region specific quantification
-7) Clustering algorithm by spatial distribution
-8) Tissue mosaic generation for all decoded spots in embryonic tissues
-9) Cortex RNA MERFISH quantification
+6) Region specific quantification and clustering by spatial distribution
+7) Tissue mosaic generation for all decoded spots in embryonic tissues
+8) Cortex RNA MERFISH quantification
 
 All the codes are written in Matlab(2021a). 
 
