@@ -12,8 +12,7 @@ The codes include:
 4) Spot decoding in embryonic tissue (no single cell)
 5) Quantification of layer specificity 
 6) Quantification of region specificity and loci clustering by the spatial distribution
-7) Tissue mosaic generation for all decoded spots in embryonic tissues
-8) Quantification of RNA MERFISH in mouse adult cortex
+7) Quantification of RNA MERFISH in mouse adult cortex
 
 All the codes are written in Matlab(2021a). 
 
