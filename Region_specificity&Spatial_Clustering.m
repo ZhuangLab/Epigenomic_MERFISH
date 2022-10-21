@@ -11,8 +11,6 @@ code=cell2mat(codebook(1:366,4:27));
 Name=codebook(1:366,1);
 
 color=all.color;
-color(2)=750;
-color(3)=561;
 desiredround=all.imagingRound;
 bitnumber=24;
 roundnumber=8;
