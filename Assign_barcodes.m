@@ -14,7 +14,7 @@ for i=1:1000000 % randomly assign barcode to each loci until the barcode arrange
         barcodes = barcodes(randperm(size(barcodes,1)),:);
         accept=1;
         bad=0;
-        for j=1:22
+        for j=1:23
            idx=chr==j;
            tempcode=sum(barcodes(idx,:));
            if  sum(tempcode>5)>0
@@ -32,7 +32,7 @@ for i=1:1000000 % randomly assign barcode to each loci until the barcode arrange
         end
 end
 %
-for j=1:22
+for j=1:23
            idx=chr==j;
            tempcode=sum(finalbarcodes(idx,:));
            disp( ['Chr:' num2str(j)]);
