@@ -78,9 +78,7 @@ end
 %% cluster the enhancer based on fov
 cgo = clustergram(regioncount','Linkage','weighted','Colormap','redbluecmap','Standardize','Column');
 set(cgo,'Dendrogram',22.3);
-%%
-cgo = clustergram(regioncount','ColumnPDist','Correlation','Linkage','ward','Colormap','redbluecmap','Standardize','Column');
-set(cgo,'Dendrogram',10);
+
 %%
 Y=pdist(regioncount);
 z=linkage(Y);
